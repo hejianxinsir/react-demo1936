@@ -16,6 +16,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+	"homepage" : "http://hejianxinsir.github.io/react-demo1936/build/index.html",
   "development": [
       "last 1 chrome version",
       "last 1 firefox version",
